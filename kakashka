@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #A60000;
+    padding: 15px;
+}
+
+h3{
+    color:white;
+    background-color: #009999	;
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.akaka{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+
+img{
+    width: 300px;
+    margin-left: 600px;
+}
+
+a{
+    margin-left: 700px;
+}
+
+footer{
+    background-color: #679B00;
+}
+
+.babka{
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+li{
+    margin-top: 20px;
+}
+
+ol{
+    margin-top: 10px;
+}
